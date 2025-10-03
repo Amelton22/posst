@@ -4660,4 +4660,5 @@ class StockSignalsApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = StockSignalsApp(root)
+
     app.main()			
