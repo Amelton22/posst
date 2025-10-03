@@ -1,3 +1,5 @@
+# Stock Signals App v4700 - Auto Trading Bot with RSI/MACD Signals, Zone Inflation for Ratios, Trailing Stops (0.98 buffer for >2:1), and VRME Replay. Last updated Oct 03, 2025. Open bugs: IMG 20% peak miss fix.
+
 import logging
 import os
 import warnings
@@ -4662,3 +4664,4 @@ if __name__ == "__main__":
     app = StockSignalsApp(root)
 
     app.main()			
+
